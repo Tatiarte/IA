@@ -1,4 +1,5 @@
-Actividad: tres cupos, ocho estudiantes
+
+Semana 2 - Actividad: tres cupos, ocho estudiantes
 
 En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
 
@@ -176,4 +177,4 @@ No cambio la elección pero sí cambio la justificación porque en este caso se 
 CONCLUSIÓN
 -Necesitabamos definir los criterios éticos de selección con base en qué entendemos por acompañamiento y cuáles son aquellos estudiantes que presentan mayores dificultades académicas y las barreras que impiden su aprendizaje. 
 - La asistencia y el bajo rendimiento no son criterios de selección porque los estudiantes no presentan las mismas condiciones.
-- En el segundo pront la la variable "quedarse atrás" cambia a un potencial abandono, lo que lleva a enfocar la atención en Diego, Gabriela y Ana. Sin embargo, Bruno también se identifica como potencialmente afectado por sus circunstancias particulares.
+- En el segundo pront la variable "quedarse atrás" cambia a un potencial abandono, lo que lleva a enfocar la atención en Diego, Gabriela y Ana. Sin embargo, Bruno también se identifica como potencialmente afectado por sus circunstancias particulares.
